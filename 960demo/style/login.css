@@ -1,0 +1,22 @@
+*{margin: 0 ; padding: 0;}
+.loginarea{
+  width: 500px;
+  height: 400px;
+  background-color: #9da5b4;
+}
+.grid_4{border: 1px solid white;}
+.loginbox{
+  height: 300px;
+  width: 500px;
+  background-color: white;
+}
+
+.loginbox p{
+  text-align: center;
+  font-size: 20px;
+  font-family: monospace;
+  padding: 30px 0 30px 0;
+}
+label{
+
+}

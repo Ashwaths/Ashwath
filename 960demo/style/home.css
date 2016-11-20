@@ -1,0 +1,38 @@
+*{margin: 0; padding: 0;}
+
+.header1{
+  height: 100px;
+  background-color: blue;
+}
+
+.menu{
+  float: right;
+  margin: 20px 50px 0 0;
+}
+
+.menu li{
+  display: inline-block;
+  margin: 20px;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+#logo{
+  height: 90px;
+  margin: 0 0 0 20px;
+}
+
+.slider img{
+  height: 600px;
+  width: 100%;
+}
+
+.welcome-tag{
+  position: absolute;
+
+}
